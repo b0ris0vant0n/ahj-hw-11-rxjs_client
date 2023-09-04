@@ -1,0 +1,15 @@
+
+  body {
+    padding-top: 50px;
+    width: 100%;
+    height: 100%;
+    background: #1a4d14;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    font-size: medium;
+    margin: 0px auto;
+  }
+ 
