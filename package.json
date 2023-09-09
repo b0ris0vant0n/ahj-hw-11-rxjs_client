@@ -50,6 +50,7 @@
     "jest-each": "^29.5.0",
     "jest-environment-jsdom": "^29.5.0",
     "mini-css-extract-plugin": "^2.7.5",
+    "moment": "^2.29.4",
     "puppeteer": "^19.8.5",
     "puppeteer-core": "^19.8.5",
     "push-dir": "^0.4.1",

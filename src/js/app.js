@@ -23,7 +23,7 @@ console.log('Интервал запущен')
 interval(5000)
   .pipe(
     switchMap(() => {
-      return ajax.getJSON('http://localhost:3031/messages/unread')
+      return ajax.getJSON('https://rxjs-server.onrender.com/messages/unread')
         .pipe(
           catchError(() => [])
         );
